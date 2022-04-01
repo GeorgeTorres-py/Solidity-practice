@@ -12,7 +12,7 @@ pragma solidity >=0.4.0 <0.9.0;
 
 
 contract Purchase {
-    enum State { Created, Locked, Insctive}
+    enum State { Created, Locked, Inactive}
 
 }
 

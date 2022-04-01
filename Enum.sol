@@ -1,4 +1,4 @@
-//Solidity-Identifier-License GPL: 3.0
+//Solidity-Identifier-License GPL-3.0
 
 
 //Enums are one way to create 
